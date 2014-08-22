@@ -1,0 +1,7 @@
+{
+    "name": "wogsland/fpdf",
+    "description": "Make PDF files in PHP!",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
