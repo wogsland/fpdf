@@ -2,6 +2,7 @@
     "name": "wogsland/fpdf",
     "description": "Make PDF files in PHP!",
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=5.1.0",
+        "sebastianbergmann/phpunit": "4.2"
     }
 }
